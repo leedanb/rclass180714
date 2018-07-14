@@ -25,6 +25,7 @@ res <- bmi(180, 70)
 res
 # '정상' 으로 나오도록 코드를 완성하시오
 
+#내답ㅇ
 bmi<- function(x,y){
      z<- y/(x/100*x/100)
      res<-if(z>=35)"고도비만"else
@@ -37,4 +38,33 @@ bmi<- function(x,y){
    }
 > bmi(180,70)
 #키: 180 몸무게: 70 정상
-getwd()
+
+#선생님해설
+bmi<-function(x,y){
+  res<-'정상'
+  return(res)
+}
+bmi(180,60)
+
+bim<-function(x,y){
+  z<-y/((x*x)/10000)
+  res<-if(z>=35)"고도비만"else
+  if(z>=30 & z<35)"중등도비만"else
+    if(z>=25 & z<30)"경도비만"else
+      if(z>=23 & z<24.9)"과체중"else
+        if(z>=18.5 & z<22.9)"정수"else
+            "저체중"
+  return(res)
+}
+bim(180,90)
+
+bim<-function(x,y){
+  z<-y/((x*x)/10000)
+  return(if(z>=35)"고도비만"else
+    if(z>=30 & z<35)"중등도비만"else
+      if(z>=25 & z<30)"경도비만"else
+        if(z>=23 & z<24.9)"과체중"else
+          if(z>=18.5 & z<22.9)"정수"else
+            "저체중")
+}
+

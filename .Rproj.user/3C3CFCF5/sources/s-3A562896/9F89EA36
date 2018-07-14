@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531547136137.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9F89EA36",
+    "lastKnownWriteTime" : 1531549057,
+    "last_content_update" : 1531549057,
+    "path" : "C:/R/project180714/ForloopDemo.R",
+    "project_path" : "ForloopDemo.R",
+    "properties" : {
+        "cursorPosition" : "49,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

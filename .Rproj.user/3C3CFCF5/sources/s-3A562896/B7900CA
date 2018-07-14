@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531554181520.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B7900CA",
+    "lastKnownWriteTime" : 1531557352,
+    "last_content_update" : 1531557352953,
+    "path" : "C:/R/project180714/ChartDemo.R",
+    "project_path" : "ChartDemo.R",
+    "properties" : {
+        "cursorPosition" : "27,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

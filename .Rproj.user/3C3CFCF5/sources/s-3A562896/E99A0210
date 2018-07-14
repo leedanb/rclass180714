@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531540690686.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E99A0210",
+    "lastKnownWriteTime" : 1531547193,
+    "last_content_update" : 1531547193589,
+    "path" : "C:/R/project180714/rock_paper_scissors.R",
+    "project_path" : "rock_paper_scissors.R",
+    "properties" : {
+        "cursorPosition" : "70,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

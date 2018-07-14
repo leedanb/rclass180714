@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531537128966.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1EB6FF7F",
+    "lastKnownWriteTime" : 1531540041,
+    "last_content_update" : 1531540042003,
+    "path" : "C:/R/project180714/GenderChecker.R",
+    "project_path" : "GenderChecker.R",
+    "properties" : {
+        "cursorPosition" : "99,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
